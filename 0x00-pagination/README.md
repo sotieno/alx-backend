@@ -1,6 +1,6 @@
 # Pagination
 
-This project contains tasks for learning to paginate data.
+Pagination is a critical technique that enables breaking down data into manageable chunks, leading to reduced server load and improved user experience. This repository comprises a series of small tasks aimed at mastering the art of pagination and optimizing data retrieval for large-scale applications.
 
 ## Learning Objectives
 
