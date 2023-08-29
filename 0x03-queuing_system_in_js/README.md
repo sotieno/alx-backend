@@ -1,6 +1,6 @@
 # 0x03. Queuing System in JS
 
-In this repository, I explore the fascinating world of queuing system in JavaScript using the powerful Redis database. Queuing systems play a crucial role in managing tasks, jobs, and asynchronous processes, making them an essential tool for scalable and efficient applications.
+In this repository, I explore the queuing system in JavaScript using the powerful Redis database. Queuing systems play a crucial role in managing tasks, jobs, and asynchronous processes, making them an essential tool for scalable and efficient applications.
 
 ## Learning Objectives
 
